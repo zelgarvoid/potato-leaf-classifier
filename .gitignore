@@ -1,0 +1,17 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+static/uploads/*
+!static/uploads/.gitkeep
+
+dataset/
+
+*.h5
+
+.DS_Store
+Thumbs.db

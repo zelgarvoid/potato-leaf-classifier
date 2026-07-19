@@ -1,0 +1,51 @@
+body{
+
+    background:#f4f7f8;
+
+}
+
+.card{
+
+    border:none;
+
+    border-radius:20px;
+
+}
+
+.preview{
+
+    max-height:350px;
+
+    margin-top:20px;
+
+    border-radius:15px;
+
+}
+
+.result-card{
+
+    margin-top:20px;
+
+    padding:20px;
+
+    border-radius:15px;
+
+    background:#eefaf0;
+
+    border-left:6px solid #28a745;
+
+}
+
+.btn{
+
+    border-radius:10px;
+
+    font-weight:bold;
+
+}
+
+h1{
+
+    font-weight:700;
+
+}
